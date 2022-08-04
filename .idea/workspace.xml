@@ -7,19 +7,9 @@
     <list default="true" id="c01a7e6f-f79d-48ee-863b-bf38b9dd57c6" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../HW3/applications/account/send_mail.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../found_app/.idea/found_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/celery.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_project/.idea/test_project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_project_2/.idea/test_project_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../week7/.idea/week7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/account/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/account/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/cart/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/cart/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week5/lesson_json/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../week5/lesson_json/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week7/Tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../week7/Tasks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week7/lesson4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../week7/lesson4.py" afterDir="false" />
